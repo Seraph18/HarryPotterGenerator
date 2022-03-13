@@ -1,0 +1,1 @@
+This is just a quick and fun python project that reads some txt files and radomly gives back a harry potter combo. Feel free to use the lists I've compiled for any other use, I don't own harry potter.
