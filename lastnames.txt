@@ -2,3 +2,5 @@ Potter
 Weasley
 Granger
 Dumbledore
+Gordon
+Como
